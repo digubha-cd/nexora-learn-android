@@ -1,0 +1,12 @@
+/build
+.gradle
+*.jks
+*.keystore
+my-upload-key.jks
+my-upload-key.jks.base64
+*.b64
+debug.keystore
+debug.keystore.base64
+*.env
+local.properties
+.DS_Store

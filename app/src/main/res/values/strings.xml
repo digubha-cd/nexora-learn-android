@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nexora Learn</string>
+    <string name="empty_tasks_title">No Study Tasks Planned</string>
+    <string name="empty_tasks_subtitle">Add a study task or chapter to begin your journey towards 90+ marks.</string>
+</resources>
