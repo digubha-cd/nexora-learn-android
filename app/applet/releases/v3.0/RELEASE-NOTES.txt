@@ -1,0 +1,13 @@
+App Name: NEXORA LEARN
+Version Name: 3.0
+Version Code: 3
+APK Filename: NEXORA-LEARN-v3.0.apk
+Actual APK Size: 24 MB (24,252,706 bytes)
+SHA-256 Checksum: 47464f7834d043144b1e8253c69c086e9e71d0e097470df528e6abdd99f50056
+
+Release Highlights:
+- Ultra-Premium White Aesthetic in light mode with smooth adaptive dark mode support.
+- Tabbed Workload Views (Academic, Revision, Extracurricular) in the To-Do Hub.
+- Material 3 ScrollableTabRow task filters.
+- Coming Soon interactive experience for Chat.
+- Robust local & Supabase cloud persistence.
